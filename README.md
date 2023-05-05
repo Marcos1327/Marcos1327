@@ -1,7 +1,8 @@
-#### Olá! Seja bem-vindo(a) 👋
+#### Hi! Welcome to my github profile 👋 
+#### My name is Marcos and at the moment I'm: 👇
 
-- 🔭 Trabalhando com Back-End
-- 👯 Estudando Java/SpringBoot
+- 🔭 Working with Back-End
+- 👯 Learning Java/SpringBoot
 
 <div align="left">
   <a href="https://github.com/Marcos1327">
@@ -11,9 +12,9 @@
 
  ## Skills and Languages 📖💻
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dev-Java" height="30" width="40" "<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="Dev-Html" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Dev-Spring" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
+  <img align="center" alt="Dev-Java" height="60" width="60" "<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="Dev-Html" height="60" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Dev-Spring" height="60" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
   <img align="center" alt="Dev-Postgres" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 
