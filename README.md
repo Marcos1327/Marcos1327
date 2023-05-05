@@ -6,8 +6,8 @@
 
 <div align="left">
   <a href="https://github.com/Marcos1327">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Marcos1327&show_icons=true&theme=dracula&include_all_commits"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Marcos1327&layout=compact&langs_count=7&theme=dracula"
+  <img align="left" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Marcos1327&show_icons=true&theme=dracula&include_all_commits"/>
+  <img align="center"  height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Marcos1327&layout=compact&langs_count=7&theme=dracula"
 </div>
 
  ## Skills and Languages 📖💻
