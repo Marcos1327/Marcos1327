@@ -6,10 +6,11 @@
 
 <div align="left">
   <a href="https://github.com/Marcos1327">
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Marcos1327&show_icons=true&theme=dracula&include_all_commits"/>
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Marcos1327&layout=compact&langs_count=7&theme=dracula"
+  <img align="left" height="160em"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Marcos1327&show_icons=true&theme=dracula&include_all_commits"/>
+  <img align="center" height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Marcos1327&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+    
  ## Skills and Languages 📖💻
 <div style="display: inline_block"><br>
   <img align="center" alt="Dev-Java" height="60" width="60" "<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
