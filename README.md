@@ -12,12 +12,15 @@
 
     
  ## Skills and Languages 📖💻
-<div style="display: inline_block"><br>
-  <img align="center" alt="Dev-Java" height="60" width="60" "<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="Dev-Html" height="60" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Dev-Spring" height="60" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
-  <img align="center" alt="Dev-Postgres" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-</div>
+<!-- Backend -->
+<h3 align="left">- Backend:
+  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="Spring" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+</h3>
+
+<h3 align="left">- Banco de Dados:
+  <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+</h3>
 
 ##
 ## Medias 🌐
